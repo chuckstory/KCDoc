@@ -1,0 +1,13 @@
+<mxfile host="65bd71144e">
+    <diagram id="ph7KLaIViySs_kmDl749" name="Page-1">
+        <mxGraphModel dx="2200" dy="1440" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="5" value="&lt;span style=&quot;&quot;&gt;ETL (Extrac, Transform, Load)&lt;/span&gt;&lt;br style=&quot;&quot;&gt;&lt;ul style=&quot;&quot;&gt;&lt;li&gt;Extract&lt;/li&gt;&lt;ul&gt;&lt;li&gt;Extract data from source system, no transformation, filtering or translation&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;Transform&lt;/li&gt;&lt;ul&gt;&lt;li&gt;Transform data from source staging to staging table format&lt;/li&gt;&lt;li&gt;Generate as&amp;nbsp;&lt;span style=&quot;background-color: rgb(44, 155, 3);&quot;&gt;adjustment_id&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;Load&amp;nbsp;&lt;/li&gt;&lt;ul&gt;&lt;li&gt;Validate&lt;/li&gt;&lt;li&gt;Launch HMS&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;&lt;div style=&quot;&quot;&gt;ETL in OneSumX Step&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;ol&gt;&lt;li&gt;Create Source Staging Tables&lt;/li&gt;&lt;li&gt;Create OneSumX Staging and HMS&lt;/li&gt;&lt;li&gt;Defind transformation in Maestro&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="40" y="20" width="490" height="310" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
